@@ -1,0 +1,10 @@
+Package: aeasyVie
+Type: Package
+Title: Comment owner l'examen informatique
+Version: 1.1
+Author: Deniz
+Maintainer: Deniz <deniz.alic.1@ulaval.ca>
+Description: Enjoy
+License: Rien
+LazyData: TRUE
+RoxygenNote: 5.0.1
